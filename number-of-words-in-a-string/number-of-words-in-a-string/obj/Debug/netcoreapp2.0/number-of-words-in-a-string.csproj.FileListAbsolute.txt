@@ -1,0 +1,11 @@
+c:\users\savit\source\repos\number-of-words-in-a-string\number-of-words-in-a-string\obj\Debug\netcoreapp2.0\number-of-words-in-a-string.csprojResolveAssemblyReference.cache
+c:\users\savit\source\repos\number-of-words-in-a-string\number-of-words-in-a-string\obj\Debug\netcoreapp2.0\number-of-words-in-a-string.csproj.CoreCompileInputs.cache
+c:\users\savit\source\repos\number-of-words-in-a-string\number-of-words-in-a-string\obj\Debug\netcoreapp2.0\number-of-words-in-a-string.AssemblyInfoInputs.cache
+c:\users\savit\source\repos\number-of-words-in-a-string\number-of-words-in-a-string\obj\Debug\netcoreapp2.0\number-of-words-in-a-string.AssemblyInfo.cs
+c:\users\savit\source\repos\number-of-words-in-a-string\number-of-words-in-a-string\bin\Debug\netcoreapp2.0\number-of-words-in-a-string.deps.json
+c:\users\savit\source\repos\number-of-words-in-a-string\number-of-words-in-a-string\bin\Debug\netcoreapp2.0\number-of-words-in-a-string.runtimeconfig.json
+c:\users\savit\source\repos\number-of-words-in-a-string\number-of-words-in-a-string\bin\Debug\netcoreapp2.0\number-of-words-in-a-string.runtimeconfig.dev.json
+c:\users\savit\source\repos\number-of-words-in-a-string\number-of-words-in-a-string\bin\Debug\netcoreapp2.0\number-of-words-in-a-string.dll
+c:\users\savit\source\repos\number-of-words-in-a-string\number-of-words-in-a-string\bin\Debug\netcoreapp2.0\number-of-words-in-a-string.pdb
+c:\users\savit\source\repos\number-of-words-in-a-string\number-of-words-in-a-string\obj\Debug\netcoreapp2.0\number-of-words-in-a-string.dll
+c:\users\savit\source\repos\number-of-words-in-a-string\number-of-words-in-a-string\obj\Debug\netcoreapp2.0\number-of-words-in-a-string.pdb

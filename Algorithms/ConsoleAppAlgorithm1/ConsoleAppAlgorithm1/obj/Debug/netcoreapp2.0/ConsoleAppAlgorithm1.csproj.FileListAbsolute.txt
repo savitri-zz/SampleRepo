@@ -1,0 +1,11 @@
+C:\Users\savit\source\repos\Algorithms\ConsoleAppAlgorithm1\ConsoleAppAlgorithm1\bin\Debug\netcoreapp2.0\ConsoleAppAlgorithm1.deps.json
+C:\Users\savit\source\repos\Algorithms\ConsoleAppAlgorithm1\ConsoleAppAlgorithm1\bin\Debug\netcoreapp2.0\ConsoleAppAlgorithm1.runtimeconfig.json
+C:\Users\savit\source\repos\Algorithms\ConsoleAppAlgorithm1\ConsoleAppAlgorithm1\bin\Debug\netcoreapp2.0\ConsoleAppAlgorithm1.runtimeconfig.dev.json
+C:\Users\savit\source\repos\Algorithms\ConsoleAppAlgorithm1\ConsoleAppAlgorithm1\bin\Debug\netcoreapp2.0\ConsoleAppAlgorithm1.dll
+C:\Users\savit\source\repos\Algorithms\ConsoleAppAlgorithm1\ConsoleAppAlgorithm1\bin\Debug\netcoreapp2.0\ConsoleAppAlgorithm1.pdb
+C:\Users\savit\source\repos\Algorithms\ConsoleAppAlgorithm1\ConsoleAppAlgorithm1\obj\Debug\netcoreapp2.0\ConsoleAppAlgorithm1.csprojResolveAssemblyReference.cache
+C:\Users\savit\source\repos\Algorithms\ConsoleAppAlgorithm1\ConsoleAppAlgorithm1\obj\Debug\netcoreapp2.0\ConsoleAppAlgorithm1.csproj.CoreCompileInputs.cache
+C:\Users\savit\source\repos\Algorithms\ConsoleAppAlgorithm1\ConsoleAppAlgorithm1\obj\Debug\netcoreapp2.0\ConsoleAppAlgorithm1.AssemblyInfoInputs.cache
+C:\Users\savit\source\repos\Algorithms\ConsoleAppAlgorithm1\ConsoleAppAlgorithm1\obj\Debug\netcoreapp2.0\ConsoleAppAlgorithm1.AssemblyInfo.cs
+C:\Users\savit\source\repos\Algorithms\ConsoleAppAlgorithm1\ConsoleAppAlgorithm1\obj\Debug\netcoreapp2.0\ConsoleAppAlgorithm1.dll
+C:\Users\savit\source\repos\Algorithms\ConsoleAppAlgorithm1\ConsoleAppAlgorithm1\obj\Debug\netcoreapp2.0\ConsoleAppAlgorithm1.pdb

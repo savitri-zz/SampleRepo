@@ -1,0 +1,11 @@
+C:\Users\savit\source\repos\reverse-a-string\reverse-a-string\bin\Debug\netcoreapp2.0\reverse-a-string.deps.json
+C:\Users\savit\source\repos\reverse-a-string\reverse-a-string\bin\Debug\netcoreapp2.0\reverse-a-string.runtimeconfig.json
+C:\Users\savit\source\repos\reverse-a-string\reverse-a-string\bin\Debug\netcoreapp2.0\reverse-a-string.runtimeconfig.dev.json
+C:\Users\savit\source\repos\reverse-a-string\reverse-a-string\bin\Debug\netcoreapp2.0\reverse-a-string.dll
+C:\Users\savit\source\repos\reverse-a-string\reverse-a-string\bin\Debug\netcoreapp2.0\reverse-a-string.pdb
+C:\Users\savit\source\repos\reverse-a-string\reverse-a-string\obj\Debug\netcoreapp2.0\reverse-a-string.csproj.CoreCompileInputs.cache
+C:\Users\savit\source\repos\reverse-a-string\reverse-a-string\obj\Debug\netcoreapp2.0\reverse-a-string.AssemblyInfoInputs.cache
+C:\Users\savit\source\repos\reverse-a-string\reverse-a-string\obj\Debug\netcoreapp2.0\reverse-a-string.AssemblyInfo.cs
+C:\Users\savit\source\repos\reverse-a-string\reverse-a-string\obj\Debug\netcoreapp2.0\reverse-a-string.dll
+C:\Users\savit\source\repos\reverse-a-string\reverse-a-string\obj\Debug\netcoreapp2.0\reverse-a-string.pdb
+C:\Users\savit\source\repos\reverse-a-string\reverse-a-string\obj\Debug\netcoreapp2.0\reverse-a-string.csprojResolveAssemblyReference.cache
