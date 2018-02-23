@@ -1,0 +1,11 @@
+C:\Users\savit\source\repos\two-strings-are-anagrams\two-strings-are-anagrams\obj\Debug\netcoreapp2.0\two-strings-are-anagrams.csproj.CoreCompileInputs.cache
+C:\Users\savit\source\repos\two-strings-are-anagrams\two-strings-are-anagrams\obj\Debug\netcoreapp2.0\two-strings-are-anagrams.AssemblyInfoInputs.cache
+C:\Users\savit\source\repos\two-strings-are-anagrams\two-strings-are-anagrams\obj\Debug\netcoreapp2.0\two-strings-are-anagrams.AssemblyInfo.cs
+C:\Users\savit\source\repos\two-strings-are-anagrams\two-strings-are-anagrams\bin\Debug\netcoreapp2.0\two-strings-are-anagrams.deps.json
+C:\Users\savit\source\repos\two-strings-are-anagrams\two-strings-are-anagrams\bin\Debug\netcoreapp2.0\two-strings-are-anagrams.runtimeconfig.json
+C:\Users\savit\source\repos\two-strings-are-anagrams\two-strings-are-anagrams\bin\Debug\netcoreapp2.0\two-strings-are-anagrams.runtimeconfig.dev.json
+C:\Users\savit\source\repos\two-strings-are-anagrams\two-strings-are-anagrams\bin\Debug\netcoreapp2.0\two-strings-are-anagrams.dll
+C:\Users\savit\source\repos\two-strings-are-anagrams\two-strings-are-anagrams\bin\Debug\netcoreapp2.0\two-strings-are-anagrams.pdb
+C:\Users\savit\source\repos\two-strings-are-anagrams\two-strings-are-anagrams\obj\Debug\netcoreapp2.0\two-strings-are-anagrams.dll
+C:\Users\savit\source\repos\two-strings-are-anagrams\two-strings-are-anagrams\obj\Debug\netcoreapp2.0\two-strings-are-anagrams.pdb
+C:\Users\savit\source\repos\two-strings-are-anagrams\two-strings-are-anagrams\obj\Debug\netcoreapp2.0\two-strings-are-anagrams.csprojResolveAssemblyReference.cache
